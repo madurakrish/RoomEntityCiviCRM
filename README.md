@@ -1,4 +1,3 @@
 RoomEntityCiviCRM
 =================
-
-Test
+This is a extension under development.
