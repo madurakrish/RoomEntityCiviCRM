@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/room</path>
+    <page_callback>CRM_Myextension_Page_Room</page_callback>
+    <title>Room</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/myroomform</path>
+    <page_callback>CRM_Myextension_Form_MyRoomForm</page_callback>
+    <title>MyRoomForm</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/roomentity</path>
+    <page_callback>CRM_Myextension_Form_RoomEntity</page_callback>
+    <title>RoomEntity</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
